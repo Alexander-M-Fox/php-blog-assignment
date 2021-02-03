@@ -1,0 +1,9 @@
+[class*="center-me"] {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.error {
+    background-color: red;
+    color: white;
+}
